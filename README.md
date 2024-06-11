@@ -1,4 +1,5 @@
 # Javascript slot-machine game
-### Fixing of block scope in variables and how to fix it is implemented in this small project.
+## A console based app
+### A basic app develope in pure javascript to understand data structures and javascript basics.
 
-### Any further improvements, suggestions, and changes are welcome.
+ main learning during this project block scopes , variables (error regarding global and local scopes) and some data structures.
